@@ -4,10 +4,12 @@
 ## Questions we solved using pivot table															
 - Q1.  Compare sales and orders Using single charts.
 - Q2. Which mounth got the highest sales and orders.												  
-- Q3. Who purchased men or women in 2022.													  - Q4. what are different order in 2022.
+- Q3. Who purchased men or women in 2022.
+- Q4. what are different order in 2022.
 - Q5. List top 5 states Who contributes to the sales.
--Q6. Relaction between age and gender based on  number												 
-- Q7. Which channels is contributing to maximum sales.												 Q8. Highest selling category																
+- Q6. Relaction between age and gender based on  number												 
+- Q7. Which channels is contributing to maximum
+- Q8. Highest selling category																
 
 ## Sample insights																
 - 1. Women are more likely to buy to men (~65%)																
